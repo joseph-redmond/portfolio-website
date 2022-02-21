@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Joe Redmond"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I have beenn programming for over 5 years and treat coding as a career not a paycheck."
+  bio    : "I have been programming for over 5 years, specializing in the jvm and treat software engineering as a career not a paycheck."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
