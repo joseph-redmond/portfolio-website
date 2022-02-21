@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Joseph Redmonds Portfolio
+email: me@josephredmond.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Joseph Redmond (Joe for short). I am a software engineer specializing in the jvm with over 5 years of programming experience.
+  I'm teaching mentees about the world of software engineering and want to help the next generation
+  of developers advance forward. I am available for contract work just send me a message and let's get started.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Joe Redmond"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I have beenn programming for over 5 years and treat coding as a career not a paycheck."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
