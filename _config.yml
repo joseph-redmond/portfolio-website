@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   of developers advance forward. I am available for contract work just send me a message and let's get started.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
